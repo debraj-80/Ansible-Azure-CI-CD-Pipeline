@@ -198,7 +198,6 @@ Both managed nodes serve the same application, demonstrating horizontal scalabil
 |---|---|---|
 | ![Azure VMs](https://github.com/user-attachments/assets/c42f7677-21eb-475c-89bf-c6f38f3d8b8b) | ![Ansible Run](https://github.com/user-attachments/assets/5fedb2bc-6663-4846-8aad-c063b9860cf8) | ![PetClinic](https://github.com/user-attachments/assets/4eec9d17-a4d5-4e32-a51a-3f1978afd553) |
 
-> *Add your screenshots to a `/screenshots` folder in this repo.*
 
 ---
 
@@ -223,9 +222,9 @@ Both managed nodes serve the same application, demonstrating horizontal scalabil
 
 ## 👤 Author
 
-**[Your Name]**  
+**[Debraj saha]**  
 DevOps Engineer | Cloud & Automation Enthusiast  
-[LinkedIn](https://linkedin.com/in/your-profile) • [GitHub](https://github.com/your-username)
+[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/debrajsaha-devops/)) • [GitHub]([https://github.com/your-username](https://github.com/debraj-80))
 
 ---
 
