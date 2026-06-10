@@ -1,0 +1,23 @@
+# SSH Keys - NEVER commit these
+*.pem
+*.key
+*.pub
+id_rsa
+id_rsa*
+
+# Environment & Secrets
+.env
+*.env
+secrets.yml
+vault_pass.txt
+
+# Logs
+*.log
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Ansible retry files
+*.retry
