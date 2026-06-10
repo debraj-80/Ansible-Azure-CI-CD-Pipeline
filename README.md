@@ -222,9 +222,9 @@ Both managed nodes serve the same application, demonstrating horizontal scalabil
 
 ## 👤 Author
 
-**[Debraj saha]**  
+**Debraj saha**  
 DevOps Engineer | Cloud & Automation Enthusiast  
-[LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/debrajsaha-devops/)) • [GitHub]([https://github.com/your-username](https://github.com/debraj-80))
+[LinkedIn](https://www.linkedin.com/in/debrajsaha-devops/) • [GitHub](https://github.com/debraj-80)
 
 ---
 
