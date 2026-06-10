@@ -196,7 +196,7 @@ Both managed nodes serve the same application, demonstrating horizontal scalabil
 
 | Azure VM Dashboard | Ansible Terminal Output | Live App |
 |---|---|---|
-| ![Azure VMs](<img width="1365" height="634" alt="Image" src="https://github.com/user-attachments/assets/c42f7677-21eb-475c-89bf-c6f38f3d8b8b" />) | ![Ansible run](./screenshots/ansible-run.png) | ![PetClinic](./screenshots/petclinic-live.png) |
+| ![Azure VMs](https://github.com/user-attachments/assets/c42f7677-21eb-475c-89bf-c6f38f3d8b8b) | ![Ansible Run](https://github.com/user-attachments/assets/5fedb2bc-6663-4846-8aad-c063b9860cf8) | ![PetClinic](https://github.com/user-attachments/assets/4eec9d17-a4d5-4e32-a51a-3f1978afd553) |
 
 > *Add your screenshots to a `/screenshots` folder in this repo.*
 
